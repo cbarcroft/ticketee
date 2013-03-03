@@ -38,6 +38,8 @@ Ticketee::Application.routes.draw do
     end
   end
 
+  resources :files
+
   # Sample resource route with options:
   #   resources :products do
   #     member do
