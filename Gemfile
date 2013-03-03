@@ -51,3 +51,5 @@ end
 gem 'devise', '2.1.0.rc'
 gem 'cancan', '1.6.7'
 gem 'paperclip', '2.7.0'
+gem 'database_cleaner', '0.7.2'
+gem 'selenium-webdriver','>= 2.5.0'
